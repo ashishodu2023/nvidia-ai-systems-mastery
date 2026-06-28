@@ -1,0 +1,25 @@
+# Build
+build/
+
+# CLion
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+compile_commands.json
