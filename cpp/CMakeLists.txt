@@ -1,1 +1,2 @@
-add_executable(hello 01_hello_world/main.cpp)
+add_subdirectory(01_hello_world)
+add_subdirectory(02_header_files)
